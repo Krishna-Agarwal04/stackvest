@@ -1,0 +1,34 @@
+# Rails SQLite and Logs
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/db/*.sqlite3-wal
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+/storage/*
+!/storage/.keep
+/.bundle
+
+# Frontend dependencies and builds
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Env files (contains sensitive keys if any)
+.env
+.env.local
+.env.production
+.env.development
+.env.*.local
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.env.development
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db

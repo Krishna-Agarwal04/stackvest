@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  stack_asset: one
+  bidder_name: MyString
+  amount: 9.99
+  timestamp: 2026-05-21 14:32:41
+
+two:
+  stack_asset: two
+  bidder_name: MyString
+  amount: 9.99
+  timestamp: 2026-05-21 14:32:41
