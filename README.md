@@ -1,6 +1,10 @@
 # ⚡ StackVest | Stacks Auction & Personal Finance Portal
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-brightgreen?style=for-the-badge&logo=render)](https://stackvest.onrender.com)
+
 Welcome to **StackVest**—a premium, high-fidelity virtual financial dashboard and technology stack auction prototype! 
+
+**🔗 Live Hosted URL:** [https://stackvest.onrender.com](https://stackvest.onrender.com)
 
 This project was conceived and built under a highly personal and exciting legacy from one of the most prestigious colleges in Delhi University.
 
